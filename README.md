@@ -3,8 +3,11 @@
 This repository contains my practice problems and projects while learning **Object-Oriented Programming (OOP) in Python**.
 
 ## 📂 Structure
-- `problems/` → Small OOP problems for practice.
-- `projects/` → Larger projects built using OOP concepts.
+- `Basic/` → Fundamental OOP concepts and simple classes
+- `Easy/` → Beginner-friendly OOP problems
+- `Medium/` → Intermediate level OOP problems  
+- `Hard/` → Advanced OOP challenges
+- `Projects/` → Larger projects built using OOP concepts.
 
 ## 🚀 How to Run
 Clone the repo and run a file:
@@ -31,4 +34,4 @@ This repository covers all major topics of Object-Oriented Programming in Python
 - **Object Lifecycle & Garbage Collection**: Understanding creation, usage, and deletion of objects.
 - **Type Hinting & Dataclasses**: Improving code readability and maintainability.
 
-Explore the `problems/` and `projects/` folders for examples and hands-on practice with each concept!
+Explore the difficulty folders and projects folder for examples and hands-on practice with each concept!
