@@ -1,0 +1,21 @@
+Type,Name,Emp_ID,Department,Salary/Rate,Bonus/Hours
+FullTimeEmployee,Jane Doe,101,Engineering,6000.0,500.0
+PartTimeEmployee,Joe Bloggs,202,Support,25.0,120.0
+FullTimeEmployee,Alan Turing,103,Research,7500.0,1000.0
+PartTimeEmployee,Alice Smith,204,Marketing,30.0,80.0
+FullTimeEmployee,Bob Johnson,105,HR,5200.0,300.0
+PartTimeEmployee,Carol Nguyen,206,Sales,22.5,95.0
+FullTimeEmployee,Diego Rivera,107,Finance,6800.0,450.0
+PartTimeEmployee,Eva Lopez,208,Customer Success,20.0,110.0
+FullTimeEmployee,Frank Miller,109,Operations,5800.0,250.0
+PartTimeEmployee,Gina Patel,210,Design,28.0,60.0
+FullTimeEmployee,Hannah Wells,111,Legal,6200.0,400.0
+PartTimeEmployee,Ian Curtis,212,Support,24.0,90.0
+FullTimeEmployee,Julia Child,113,Research,8000.0,1200.0
+PartTimeEmployee,Kyle Brown,214,Maintenance,18.5,140.0
+FullTimeEmployee,Linda Park,115,Engineering,7000.0,600.0
+PartTimeEmployee,Marcus Lee,216,Marketing,27.0,75.0
+FullTimeEmployee,Nora Allen,117,Finance,6600.0,350.0
+PartTimeEmployee,Oscar Diaz,218,Sales,23.0,88.0
+FullTimeEmployee,Paula Gomez,119,HR,5400.0,200.0
+PartTimeEmployee,Quinn Turner,220,Design,26.0,50.0
