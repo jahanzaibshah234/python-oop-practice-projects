@@ -1,0 +1,201 @@
+product_id,name,category,price,quantity
+1000,Sneakers,Clothing,3816.0,165
+1001,Cooking Oil,Groceries,4686.51,170
+1002,Backpack,Home,4578.47,46
+1003,Extension Cord,Home,427.31,190
+1004,Headphones,Electronics,719.04,189
+1005,Wall Clock,Home,2072.05,99
+1006,Wall Clock,Home,2028.53,128
+1007,Ball Pen,Stationery,1505.46,37
+1008,Laptop Stand,Electronics,4346.04,199
+1009,Rice Bag,Groceries,1422.18,31
+1010,Tea Box,Groceries,2593.35,139
+1011,Cooking Oil,Groceries,3886.02,121
+1012,Jeans,Clothing,2697.64,36
+1013,Jacket,Clothing,670.56,157
+1014,Laptop Stand,Electronics,4783.53,183
+1015,Cap,Clothing,4153.6,191
+1016,Jacket,Clothing,4544.68,82
+1017,Backpack,Home,706.61,152
+1018,T-Shirt,Clothing,2186.29,0
+1019,Backpack,Home,3614.93,12
+1020,Table Lamp,Home,857.77,168
+1021,T-Shirt,Clothing,1518.34,119
+1022,USB Keyboard,Electronics,989.39,116
+1023,Smartphone Charger,Electronics,3855.08,30
+1024,Office File,Stationery,2017.76,76
+1025,Jacket,Clothing,843.8,114
+1026,Jacket,Clothing,3879.3,90
+1027,Table Lamp,Home,4617.31,65
+1028,Office File,Stationery,368.62,190
+1029,Wall Clock,Home,1417.05,122
+1030,Jacket,Clothing,665.4,113
+1031,Backpack,Home,282.33,10
+1032,Bluetooth Speaker,Electronics,3955.24,197
+1033,Bluetooth Speaker,Electronics,1579.43,3
+1034,Bluetooth Speaker,Electronics,3220.63,45
+1035,Jeans,Clothing,3303.76,177
+1036,Coffee Jar,Groceries,783.72,146
+1037,Sneakers,Clothing,4673.51,142
+1038,Sneakers,Clothing,4815.41,171
+1039,Office File,Stationery,3351.79,70
+1040,Laptop Stand,Electronics,2005.67,110
+1041,Rice Bag,Groceries,2092.18,162
+1042,Sugar Pack,Groceries,3482.98,132
+1043,Power Bank,Electronics,1538.68,154
+1044,Sugar Pack,Groceries,3689.42,184
+1045,Tea Box,Groceries,763.8,37
+1046,Rice Bag,Groceries,2242.68,166
+1047,Sugar Pack,Groceries,2378.68,160
+1048,Headphones,Electronics,3422.19,59
+1049,T-Shirt,Clothing,2040.82,153
+1050,Ball Pen,Stationery,3087.24,119
+1051,Table Lamp,Home,1625.68,122
+1052,Wireless Mouse,Electronics,3108.44,138
+1053,Sneakers,Clothing,1898.71,164
+1054,Marker,Stationery,3742.48,186
+1055,Notebook,Stationery,3504.39,137
+1056,Laptop Stand,Electronics,3938.83,161
+1057,Cooking Oil,Groceries,3728.2,71
+1058,Jacket,Clothing,1144.98,167
+1059,Backpack,Home,4141.64,189
+1060,USB Keyboard,Electronics,461.56,94
+1061,Water Bottle,Home,3715.44,159
+1062,Jacket,Clothing,1435.27,139
+1063,Webcam,Electronics,3147.88,40
+1064,Sugar Pack,Groceries,3358.37,182
+1065,Notebook,Stationery,4893.7,34
+1066,Wall Clock,Home,564.37,14
+1067,Office File,Stationery,3676.36,116
+1068,Ball Pen,Stationery,2517.16,97
+1069,Wireless Mouse,Electronics,395.21,168
+1070,Cooking Oil,Groceries,2066.64,171
+1071,Notebook,Stationery,676.84,87
+1072,Extension Cord,Home,770.28,83
+1073,Ball Pen,Stationery,3910.52,57
+1074,Office File,Stationery,1416.33,113
+1075,Power Bank,Electronics,4711.84,110
+1076,USB Keyboard,Electronics,2553.15,196
+1077,Cap,Clothing,1349.46,193
+1078,Sneakers,Clothing,3208.14,50
+1079,Smartphone Charger,Electronics,2146.85,87
+1080,Webcam,Electronics,279.8,32
+1081,Notebook,Stationery,251.69,95
+1082,Headphones,Electronics,2552.01,118
+1083,Headphones,Electronics,1661.32,186
+1084,Office File,Stationery,4399.84,137
+1085,Laptop Stand,Electronics,1195.34,108
+1086,Cap,Clothing,4278.86,150
+1087,Coffee Jar,Groceries,4861.59,183
+1088,Office File,Stationery,619.67,6
+1089,Extension Cord,Home,1122.34,100
+1090,Tea Box,Groceries,1930.34,8
+1091,Notebook,Stationery,1246.18,187
+1092,Webcam,Electronics,1120.78,118
+1093,Table Lamp,Home,1442.18,139
+1094,Sneakers,Clothing,4816.47,130
+1095,Wall Clock,Home,3808.31,124
+1096,Smartphone Charger,Electronics,1490.9,173
+1097,Sneakers,Clothing,1473.52,191
+1098,Laptop Stand,Electronics,2772.61,194
+1099,Tea Box,Groceries,4295.34,152
+1100,Flash Drive,Electronics,2616.84,159
+1101,Headphones,Electronics,1537.23,100
+1102,Wall Clock,Home,2215.64,139
+1103,Headphones,Electronics,4425.2,112
+1104,Water Bottle,Home,3550.61,49
+1105,Coffee Jar,Groceries,2094.42,183
+1106,Ball Pen,Stationery,3870.43,188
+1107,Bluetooth Speaker,Electronics,1654.32,112
+1108,Flash Drive,Electronics,4110.05,95
+1109,T-Shirt,Clothing,3178.78,106
+1110,Cooking Oil,Groceries,3496.26,7
+1111,Table Lamp,Home,1119.83,14
+1112,Sneakers,Clothing,3597.33,117
+1113,Smartphone Charger,Electronics,4992.25,196
+1114,Coffee Jar,Groceries,3669.54,18
+1115,Jacket,Clothing,2568.67,12
+1116,Laptop Stand,Electronics,2619.31,0
+1117,Power Bank,Electronics,1476.06,20
+1118,Webcam,Electronics,4762.49,179
+1119,Tea Box,Groceries,2252.3,30
+1120,LED Monitor,Electronics,4517.18,192
+1121,Bluetooth Speaker,Electronics,3136.64,47
+1122,Sneakers,Clothing,686.33,153
+1123,Notebook,Stationery,727.22,62
+1124,Coffee Jar,Groceries,876.16,191
+1125,T-Shirt,Clothing,4624.52,120
+1126,Ball Pen,Stationery,3329.69,43
+1127,Jeans,Clothing,3854.88,132
+1128,Ball Pen,Stationery,4377.8,156
+1129,Wireless Mouse,Electronics,3719.25,59
+1130,Coffee Jar,Groceries,3905.72,127
+1131,Water Bottle,Home,759.12,44
+1132,Table Lamp,Home,1271.48,139
+1133,USB Keyboard,Electronics,3641.66,87
+1134,Bluetooth Speaker,Electronics,342.37,64
+1135,Rice Bag,Groceries,527.37,118
+1136,T-Shirt,Clothing,4690.0,69
+1137,Laptop Stand,Electronics,3893.64,67
+1138,LED Monitor,Electronics,2026.89,135
+1139,Notebook,Stationery,1041.85,72
+1140,Sugar Pack,Groceries,725.73,34
+1141,Coffee Jar,Groceries,3589.6,20
+1142,Wall Clock,Home,1984.05,41
+1143,USB Keyboard,Electronics,1008.83,96
+1144,Bluetooth Speaker,Electronics,4367.26,193
+1145,Sticky Notes,Stationery,1711.59,104
+1146,Webcam,Electronics,817.49,16
+1147,T-Shirt,Clothing,621.84,167
+1148,USB Keyboard,Electronics,3997.19,41
+1149,Webcam,Electronics,763.46,67
+1150,Webcam,Electronics,2017.82,72
+1151,Wireless Mouse,Electronics,1761.69,160
+1152,Coffee Jar,Groceries,572.26,85
+1153,Sticky Notes,Stationery,712.9,15
+1154,Jeans,Clothing,2889.18,121
+1155,Notebook,Stationery,1081.01,50
+1156,Headphones,Electronics,573.17,149
+1157,Bluetooth Speaker,Electronics,4780.49,13
+1158,Power Bank,Electronics,4646.13,61
+1159,Sugar Pack,Groceries,3535.64,183
+1160,Jeans,Clothing,4144.65,86
+1161,Sugar Pack,Groceries,3341.91,27
+1162,Cooking Oil,Groceries,476.02,166
+1163,Flash Drive,Electronics,3525.9,131
+1164,Cap,Clothing,514.62,124
+1165,Webcam,Electronics,3501.38,150
+1166,Jeans,Clothing,3220.76,125
+1167,Jacket,Clothing,4313.23,15
+1168,Sugar Pack,Groceries,290.24,88
+1169,Notebook,Stationery,3183.99,196
+1170,Headphones,Electronics,133.65,105
+1171,Wireless Mouse,Electronics,2604.38,157
+1172,Extension Cord,Home,998.1,59
+1173,Office File,Stationery,2617.8,16
+1174,LED Monitor,Electronics,2297.53,162
+1175,Sneakers,Clothing,2274.33,178
+1176,Wireless Mouse,Electronics,3727.18,22
+1177,Laptop Stand,Electronics,179.94,198
+1178,Water Bottle,Home,2873.61,170
+1179,Ball Pen,Stationery,1432.45,107
+1180,Webcam,Electronics,1647.91,21
+1181,Wall Clock,Home,2364.07,58
+1182,Smartphone Charger,Electronics,4092.72,163
+1183,Jacket,Clothing,3177.02,139
+1184,Wireless Mouse,Electronics,4667.02,183
+1185,Notebook,Stationery,2906.23,179
+1186,Extension Cord,Home,1634.2,97
+1187,USB Keyboard,Electronics,3651.05,28
+1188,Flash Drive,Electronics,4084.06,56
+1189,T-Shirt,Clothing,3307.26,76
+1190,Webcam,Electronics,2762.26,189
+1191,Flash Drive,Electronics,324.47,104
+1192,Cap,Clothing,2137.96,38
+1193,LED Monitor,Electronics,2862.96,40
+1194,Rice Bag,Groceries,4551.65,182
+1195,Laptop Stand,Electronics,1746.1,31
+1196,Bluetooth Speaker,Electronics,3990.59,17
+1197,Coffee Jar,Groceries,3840.36,70
+1198,Flash Drive,Electronics,2657.71,122
+1199,Smartphone Charger,Electronics,2622.7,143
